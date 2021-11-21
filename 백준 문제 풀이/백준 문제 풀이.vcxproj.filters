@@ -16,11 +16,11 @@
     <Filter Include="소스 파일\6단계">
       <UniqueIdentifier>{36ed985c-95ff-42bb-9033-a6b52e46d185}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\7딘계">
-      <UniqueIdentifier>{fa549d21-f658-4eb3-8791-86d4f596adf6}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\8단계">
       <UniqueIdentifier>{a8578c1e-7098-403f-a17c-a42a445ca5a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7단계">
+      <UniqueIdentifier>{fa549d21-f658-4eb3-8791-86d4f596adf6}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -34,16 +34,22 @@
       <Filter>소스 파일\6단계</Filter>
     </ClCompile>
     <ClCompile Include="11654번.cpp">
-      <Filter>소스 파일\7딘계</Filter>
+      <Filter>소스 파일\7단계</Filter>
     </ClCompile>
     <ClCompile Include="11720번.cpp">
-      <Filter>소스 파일\7딘계</Filter>
+      <Filter>소스 파일\7단계</Filter>
     </ClCompile>
     <ClCompile Include="10809번.cpp">
-      <Filter>소스 파일\7딘계</Filter>
+      <Filter>소스 파일\7단계</Filter>
     </ClCompile>
     <ClCompile Include="2675번.cpp">
-      <Filter>소스 파일\7딘계</Filter>
+      <Filter>소스 파일\7단계</Filter>
+    </ClCompile>
+    <ClCompile Include="1157번.cpp">
+      <Filter>소스 파일\7단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2908번.cpp">
+      <Filter>소스 파일\7단계</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
