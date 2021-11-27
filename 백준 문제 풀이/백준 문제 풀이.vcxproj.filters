@@ -54,5 +54,11 @@
     <ClCompile Include="5622번.cpp">
       <Filter>소스 파일\7단계</Filter>
     </ClCompile>
+    <ClCompile Include="2941버.cpp">
+      <Filter>소스 파일\7단계</Filter>
+    </ClCompile>
+    <ClCompile Include="1316번.cpp">
+      <Filter>소스 파일\7단계</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
