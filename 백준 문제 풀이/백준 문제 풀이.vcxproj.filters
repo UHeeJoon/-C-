@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\7단계">
       <UniqueIdentifier>{fa549d21-f658-4eb3-8791-86d4f596adf6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\9단계">
+      <UniqueIdentifier>{cf0c782a-9b12-4d39-a8df-7938ea4f8990}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -76,6 +79,15 @@
       <Filter>소스 파일\8단계</Filter>
     </ClCompile>
     <ClCompile Include="2775번.cpp">
+      <Filter>소스 파일\8단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2839번.cpp">
+      <Filter>소스 파일\8단계</Filter>
+    </ClCompile>
+    <ClCompile Include="10757번.cpp">
+      <Filter>소스 파일\8단계</Filter>
+    </ClCompile>
+    <ClCompile Include="1011번.cpp">
       <Filter>소스 파일\8단계</Filter>
     </ClCompile>
   </ItemGroup>
