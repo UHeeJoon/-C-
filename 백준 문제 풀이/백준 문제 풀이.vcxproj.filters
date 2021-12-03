@@ -90,5 +90,14 @@
     <ClCompile Include="1011번.cpp">
       <Filter>소스 파일\8단계</Filter>
     </ClCompile>
+    <ClCompile Include="1978번.cpp">
+      <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2581번.cpp">
+      <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
+    <ClCompile Include="11653번.cpp">
+      <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
