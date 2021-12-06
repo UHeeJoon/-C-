@@ -15,8 +15,11 @@ int main() {
 		}
 	}
 	cin >> T;
-	for (int i = 0; i < T - 1; i++) {
+
+	for (int i = 0; i < T - 1; i++) { // output
+
 		if (prime[i] == 0)
+
 			cout << i + 1 << " ";
 	}
 }
