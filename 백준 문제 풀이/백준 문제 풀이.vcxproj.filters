@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\9단계">
       <UniqueIdentifier>{cf0c782a-9b12-4d39-a8df-7938ea4f8990}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\10단계">
+      <UniqueIdentifier>{f4c9d26c-e9e1-4d77-9239-0c5fe2f28558}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -116,6 +119,18 @@
     </ClCompile>
     <ClCompile Include="4153번.cpp">
       <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
+    <ClCompile Include="3053번.cpp">
+      <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
+    <ClCompile Include="1002번.cpp">
+      <Filter>소스 파일\9단계</Filter>
+    </ClCompile>
+    <ClCompile Include="10872번.cpp">
+      <Filter>소스 파일\10단계</Filter>
+    </ClCompile>
+    <ClCompile Include="10870.cpp">
+      <Filter>소스 파일\10단계</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
