@@ -129,7 +129,10 @@
     <ClCompile Include="10872번.cpp">
       <Filter>소스 파일\10단계</Filter>
     </ClCompile>
-    <ClCompile Include="10870.cpp">
+    <ClCompile Include="10870번.cpp">
+      <Filter>소스 파일\10단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2477번.cpp">
       <Filter>소스 파일\10단계</Filter>
     </ClCompile>
   </ItemGroup>
