@@ -1,10 +1,11 @@
 #include<iostream>
+#include<string>
 using namespace std;
-void starSquare(int N) {
-	int a;
+string starSquare(int N) {
+	
 
 }
 int main() {
 	int N; cin >> N;
-	starSquare(N / 3);
+	cout << starSquare(N);
 }

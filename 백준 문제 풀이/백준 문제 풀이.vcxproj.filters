@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\10단계">
       <UniqueIdentifier>{f4c9d26c-e9e1-4d77-9239-0c5fe2f28558}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\전체 문제">
+      <UniqueIdentifier>{3cf7e49d-c618-493d-8d4c-03966bc8862d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -134,6 +137,9 @@
     </ClCompile>
     <ClCompile Include="2477번.cpp">
       <Filter>소스 파일\10단계</Filter>
+    </ClCompile>
+    <ClCompile Include="1009번.cpp">
+      <Filter>소스 파일\전체 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
