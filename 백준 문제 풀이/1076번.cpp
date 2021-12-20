@@ -16,7 +16,7 @@ int main() {
 		if (color[i] == mul)
 			mul = to_string((int)pow(10, i)).substr(1);
 	}
-	result = (reg1 == "0" ? reg2 + mul : reg1 + reg2 + mul);
+	result = reg1 + reg2 + mul;
 	cout << stoll( result);
 }
 */
