@@ -159,5 +159,14 @@
     <ClCompile Include="1076번.cpp">
       <Filter>소스 파일\전체 문제</Filter>
     </ClCompile>
+    <ClCompile Include="1063번.cpp">
+      <Filter>소스 파일\전체 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1004번.cpp">
+      <Filter>소스 파일\전체 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1005번.cpp">
+      <Filter>소스 파일\전체 문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

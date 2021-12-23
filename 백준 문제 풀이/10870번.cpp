@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-int cnt = 0;
 int Fibonacci(int num) {
     if (num == 0)
         return 0;
