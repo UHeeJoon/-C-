@@ -180,5 +180,8 @@
     <ClCompile Include="1120번.cpp">
       <Filter>소스 파일\전체 문제\2장</Filter>
     </ClCompile>
+    <ClCompile Include="1124번.cpp">
+      <Filter>소스 파일\전체 문제\2장</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
