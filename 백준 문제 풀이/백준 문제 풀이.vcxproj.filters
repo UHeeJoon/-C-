@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\전체 문제\2장">
       <UniqueIdentifier>{4dc89c42-aeba-4838-a5f6-cb8010df3496}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\전체 문제\Python 배우기%281~50%28">
+      <UniqueIdentifier>{88d3a8c6-005c-4d47-8bf7-8afc1a1c80a9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -197,6 +200,15 @@
     </ClCompile>
     <ClCompile Include="1182번.cpp">
       <Filter>소스 파일\전체 문제\2장</Filter>
+    </ClCompile>
+    <ClCompile Include="3046번.cpp">
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
+    </ClCompile>
+    <ClCompile Include="2163번.cpp">
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
+    </ClCompile>
+    <ClCompile Include="10699번.cpp">
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

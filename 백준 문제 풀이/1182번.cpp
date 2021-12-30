@@ -29,18 +29,14 @@ int arr[MAX];
 int result = 0;
 
 void numOfSubset(int idx, int sum){
-    sum += arr[idx]; //우선 해당 숫자를 더한다
-    //기저사례: 범위 초과시
+    sum += arr[idx]; 
     if (idx >= N)
         return;
 
-    //조건 성립시
     if (sum == S)
         result++;
 
-    //해당 숫자를 안 더했을 경우
     numOfSubset(idx + 1, sum - arr[idx]);
-    //해당 숫자를 더헀을 경우
     numOfSubset(idx + 1, sum);
 }
 int main(void){
