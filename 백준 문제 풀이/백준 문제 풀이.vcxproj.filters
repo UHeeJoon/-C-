@@ -37,9 +37,6 @@
     <Filter Include="소스 파일\전체 문제\2장">
       <UniqueIdentifier>{4dc89c42-aeba-4838-a5f6-cb8010df3496}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\전체 문제\Python 배우기%281~50%28">
-      <UniqueIdentifier>{88d3a8c6-005c-4d47-8bf7-8afc1a1c80a9}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\전체 문제\C++ 배우기%2851~100%29">
       <UniqueIdentifier>{fba92c62-5329-4c9d-b4f8-61a7ff97f33f}</UniqueIdentifier>
     </Filter>
@@ -48,6 +45,9 @@
     </Filter>
     <Filter Include="소스 파일\11단계">
       <UniqueIdentifier>{8cb5d68d-61e8-4d09-8f12-bd000a1d4f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\전체 문제\Python 배우기%281~50%29">
+      <UniqueIdentifier>{88d3a8c6-005c-4d47-8bf7-8afc1a1c80a9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -211,13 +211,13 @@
       <Filter>소스 파일\전체 문제\2장</Filter>
     </ClCompile>
     <ClCompile Include="3046번.cpp">
-      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%29</Filter>
     </ClCompile>
     <ClCompile Include="2163번.cpp">
-      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%29</Filter>
     </ClCompile>
     <ClCompile Include="10699번.cpp">
-      <Filter>소스 파일\전체 문제\Python 배우기%281~50%28</Filter>
+      <Filter>소스 파일\전체 문제\Python 배우기%281~50%29</Filter>
     </ClCompile>
     <ClCompile Include="1166번.cpp">
       <Filter>소스 파일\전체 문제\2장</Filter>
@@ -275,6 +275,24 @@
     </ClCompile>
     <ClCompile Include="2448번.cpp">
       <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5565번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10833번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9325번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="5522번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2747번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2576번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
