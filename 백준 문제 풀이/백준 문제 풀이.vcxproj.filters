@@ -270,5 +270,11 @@
     <ClCompile Include="7568번.cpp">
       <Filter>소스 파일\11단계</Filter>
     </ClCompile>
+    <ClCompile Include="2230번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2448번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
