@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\전체 문제\C++ 배우기%2851~100%29">
       <UniqueIdentifier>{fba92c62-5329-4c9d-b4f8-61a7ff97f33f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\전체 문제\아무 문제">
+      <UniqueIdentifier>{93794936-3121-4fb4-a001-63b986b1c3e3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -230,6 +233,27 @@
     </ClCompile>
     <ClCompile Include="1408번.cpp">
       <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2609번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2748번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1106번.cpp">
+      <Filter>소스 파일\전체 문제\2장</Filter>
+    </ClCompile>
+    <ClCompile Include="12865번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="24039번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1920번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="5430번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
