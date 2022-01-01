@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\전체 문제\아무 문제">
       <UniqueIdentifier>{93794936-3121-4fb4-a001-63b986b1c3e3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\11단계">
+      <UniqueIdentifier>{8cb5d68d-61e8-4d09-8f12-bd000a1d4f76}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -254,6 +257,18 @@
     </ClCompile>
     <ClCompile Include="5430번.cpp">
       <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="11729번.cpp">
+      <Filter>소스 파일\10단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2798번.cpp">
+      <Filter>소스 파일\11단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2231번.cpp">
+      <Filter>소스 파일\11단계</Filter>
+    </ClCompile>
+    <ClCompile Include="7568번.cpp">
+      <Filter>소스 파일\11단계</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
