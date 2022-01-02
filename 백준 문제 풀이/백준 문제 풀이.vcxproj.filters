@@ -294,5 +294,23 @@
     <ClCompile Include="2576번.cpp">
       <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
     </ClCompile>
+    <ClCompile Include="2010번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10178번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9295번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10569번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2501번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2475번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
