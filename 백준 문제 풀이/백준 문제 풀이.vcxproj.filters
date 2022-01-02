@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\전체 문제\Python 배우기%281~50%29">
       <UniqueIdentifier>{88d3a8c6-005c-4d47-8bf7-8afc1a1c80a9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\전체 문제\C++ 배우기%28101~150%29">
+      <UniqueIdentifier>{5d1eaedc-9548-4c59-96ef-d63fd51f3249}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -311,6 +314,36 @@
     </ClCompile>
     <ClCompile Include="2475번.cpp">
       <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="9085번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2490번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10797번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2506번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2455번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2921번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="10984번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%2851~100%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2460번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%28101~150%29</Filter>
+    </ClCompile>
+    <ClCompile Include="2592번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%28101~150%29</Filter>
+    </ClCompile>
+    <ClCompile Include="1436번.cpp">
+      <Filter>소스 파일\전체 문제\C++ 배우기%28101~150%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
