@@ -378,5 +378,14 @@
     <ClCompile Include="9375번.cpp">
       <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
     </ClCompile>
+    <ClCompile Include="1213번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1940번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="3986번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
