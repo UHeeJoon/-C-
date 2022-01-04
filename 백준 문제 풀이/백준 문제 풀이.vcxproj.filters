@@ -357,5 +357,26 @@
     <ClCompile Include="2979번.cpp">
       <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
     </ClCompile>
+    <ClCompile Include="10988번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1159번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="11655번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="9996번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2559번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1620번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="9375번.cpp">
+      <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

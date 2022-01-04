@@ -7,6 +7,8 @@ int main() {
 	for (int i = 0; i < 9; i++) cin >> nanj[i];
 	sort(nanj, nanj + 9);
 	do {
+		for (int i = 0; i < 9; i++) cout <<  nanj[i] << " ";
+		cout << "\n";
 		int sum = 0;
 		for (int i = 0; i < 7; i++) sum += nanj[i];
 		if (sum == 100)break;
