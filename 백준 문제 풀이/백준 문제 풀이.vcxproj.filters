@@ -55,6 +55,9 @@
     <Filter Include="소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현">
       <UniqueIdentifier>{11a1c76f-569e-4e39-a587-a6fb8f45899d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\전체 문제\그래프이론, DFS, BFS">
+      <UniqueIdentifier>{92148d3b-9403-4c12-8e38-761f90be25bb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -200,9 +203,6 @@
     </ClCompile>
     <ClCompile Include="1124번.cpp">
       <Filter>소스 파일\전체 문제\2장</Filter>
-    </ClCompile>
-    <ClCompile Include="1012번.cpp">
-      <Filter>소스 파일\전체 문제\1장</Filter>
     </ClCompile>
     <ClCompile Include="1026번.cpp">
       <Filter>소스 파일\전체 문제\1장</Filter>
@@ -392,6 +392,12 @@
     </ClCompile>
     <ClCompile Include="4375번.cpp">
       <Filter>소스 파일\전체 문제\복잡도, 재귀, 누적합, 구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2178번.cpp">
+      <Filter>소스 파일\전체 문제\그래프이론, DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1012번.cpp">
+      <Filter>소스 파일\전체 문제\그래프이론, DFS, BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
