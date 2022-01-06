@@ -408,5 +408,17 @@
     <ClCompile Include="1992번.cpp">
       <Filter>소스 파일\전체 문제\그래프이론, DFS, BFS</Filter>
     </ClCompile>
+    <ClCompile Include="1260번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2828번.cpp">
+      <Filter>소스 파일\전체 문제\그래프이론, DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2910번.cpp">
+      <Filter>소스 파일\전체 문제\그래프이론, DFS, BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="10610번.cpp">
+      <Filter>소스 파일\전체 문제\아무 문제</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
