@@ -48,7 +48,7 @@ int main() {
     }
     assert(v.size() >= 3);
     int ans = 0;
-    for (int i = 0; i < v.size(); i++) {
+    for (int i = 0; i < (int)v.size(); i++) {
         for (int j = 0; j < i; j++) {
             for (int k = 0; k < j; k++) {
                 a[v[i].first][v[i].second] = a[v[j].first][v[j].second] = a[v[k].first][v[k].second] = 1;
