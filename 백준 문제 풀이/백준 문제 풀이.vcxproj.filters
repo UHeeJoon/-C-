@@ -471,5 +471,11 @@
     <ClCompile Include="2751번.cpp">
       <Filter>소스 파일\12단계</Filter>
     </ClCompile>
+    <ClCompile Include="10989번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="2108번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
