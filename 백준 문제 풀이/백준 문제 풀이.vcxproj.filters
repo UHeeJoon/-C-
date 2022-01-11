@@ -478,4 +478,7 @@
       <Filter>소스 파일\12단계</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
 </Project>
