@@ -477,6 +477,21 @@
     <ClCompile Include="2108번.cpp">
       <Filter>소스 파일\12단계</Filter>
     </ClCompile>
+    <ClCompile Include="1427번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="11650번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="11651번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="10814번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="18870번.cpp">
+      <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

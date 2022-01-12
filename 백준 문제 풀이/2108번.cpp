@@ -45,7 +45,6 @@ int main() {
 }
 */
 
-// Æ²¸² ¤Ì¤Ð¤Ì¤Ì
 #include<iostream>
 #include<algorithm>
 #include<cmath>
@@ -78,8 +77,10 @@ int main() {
 				d = -10000000;
 			}
 			if (num[i] == count) cnt--;
-			if (cnt == 0)
+			if (cnt == 0) {
 				temp = i - 4000;
+				cnt = -1;
+			}
 			if (min > i - 4000)
 				min = i - 4000;
 			if (max < i - 4000)
