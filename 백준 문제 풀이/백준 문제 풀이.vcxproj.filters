@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\12단계">
       <UniqueIdentifier>{af0bc52b-af0e-4673-8e85-9fffc1e1efcd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\완전탐색, 백트래킹">
+      <UniqueIdentifier>{78860b35-1142-4656-8141-82363fa0489d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="4673번.cpp">
@@ -491,6 +494,12 @@
     </ClCompile>
     <ClCompile Include="18870번.cpp">
       <Filter>소스 파일\12단계</Filter>
+    </ClCompile>
+    <ClCompile Include="15686번.cpp">
+      <Filter>소스 파일\완전탐색, 백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="2589번.cpp">
+      <Filter>소스 파일\완전탐색, 백트래킹</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
